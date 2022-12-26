@@ -152,12 +152,14 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  padding: 60px 0 0;
 }
 
 .table__cell {
   width: 250px;
-  margin-top: 60px;
+  margin-top: 0 auto;
   text-align: center;
+  list-style-type: none;
 }
 
 .table__heading {
@@ -221,6 +223,7 @@
   position: relative;
   z-index: 0;
   overflow: hidden;
+  padding-bottom: 60px;
 }
 
 .section-title_theme_dark {
@@ -256,7 +259,7 @@
 }
 
 .table_theme_dark {
-  padding-bottom: 90px;
+  padding: 0px;
 }
 
 .kaufman__triangle {

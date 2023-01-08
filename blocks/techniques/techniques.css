@@ -1,11 +1,3 @@
-@import url(../techniques/cards/cards.css);
-@import url(../techniques/cards__item/cards__item.css);
-@import url(../techniques/cards__image/cards__image.css);
-@import url(../techniques/cards__title/cards__title.css);
-@import url(../techniques/cards__description/cards__description.css);
-@import url(../section/section-title/section-title.css);
-@import url(../section/section-subtitle/section-subtitle.css);
-
 .techniques {
   width: 80%;
   margin: 100px auto 0;

@@ -1,0 +1,7 @@
+@import url(../two-columns/two-columns.css);
+
+.description {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}

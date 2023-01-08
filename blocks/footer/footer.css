@@ -1,0 +1,15 @@
+@import url(../footer/footer__columns/footer__columns.css);
+@import url(../footer/footer__autor/footer__autor.css);
+@import url(../footer/footer__social-icon/footer__social-icon.css);
+@import url(../logo/_place/logo_place_footer.css);
+
+.footer {
+	display: flex;
+	margin: 0 auto;
+	min-height: 350px;
+	background-color: #1f1f1f;
+	color: #fff;
+	padding: 60px 0 40px;
+	box-sizing: border-box;
+}
+
